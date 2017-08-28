@@ -1,0 +1,58 @@
+
+ul li {
+	border: dotted;
+	border-width: thin;
+	color:hsl(30, 100%, 40%);
+}
+body {
+	background-color: hsl(0, 100%, 18%);
+	background-image: url(C:\Users\Student_07\Desktop\Couding course\First site\First-site.png);
+}
+
+.title {
+	color: 	hsl(0, 60%, 45%);
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 60px;
+}
+.list {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: hsl(31, 100%, 30%);
+}
+.list2 {
+	 font-style: oblique;
+}
+#title2 {
+	font-size: 30px;
+	color: hsl(0, 100%, 18%);
+}
+header {
+	padding: 5em;
+	text-align: center;
+}
+th.list {
+	font-size: 26px
+}
+.comment {
+	color:hsl(0, 50%, 40%);
+}
+#dottedline {
+	text-align: center;
+	color: hsl(20, 90%, 80%);
+}
+img {
+	padding: 5em;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hilight {
+	font-weight: bold;
+}
+.tablec {
+	font-size: 25px;
+	color: 	hsl(0, 100%, 30%);
+}
+table {
+	 margin-left: auto;
+    margin-right: auto;
+}
