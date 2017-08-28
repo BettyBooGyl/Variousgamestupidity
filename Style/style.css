@@ -11,11 +11,11 @@ body {
 
 .title {
 	color: 	hsl(0, 60%, 45%);
-	font-family:Impact, Charcoal, sans-serif;
+	font-family: Impact, Charcoal, sans-serif;
 	font-size: 60px;
 }
 .list {
-	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	color: hsl(31, 100%, 30%);
 }
 .list2 {
